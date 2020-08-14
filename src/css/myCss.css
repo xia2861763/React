@@ -1,0 +1,68 @@
+.user-icon {
+    background: url(../imgs/user.png) no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 15px;
+    /*margin: 3px 0px 0px 5px;*/
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /*top: 0px;
+    right: 0px;*/
+}
+
+.pwd-icon {
+    background: url(../imgs/pwd.png) no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 15px;
+    /*margin: 4px 0px 0px 5px;*/
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /*top: 0px;
+    right: 0px;*/
+}
+
+.code-icon {
+    background: url(../imgs/vcode.png) no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 15px;
+    /*margin: 4px 0px 0px 5px;*/
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.user-icon:after, .pwd-icon:after, .code-icon:after {
+    content: "";
+    display: inline-block;
+    width: 1px;
+    height: 18px;
+    background-color: #2d5a8e;
+    vertical-align: top;
+    position: absolute;
+    top: 2px;
+    right: -10px;
+}
+
+.logo1-icon {
+    padding-left: 44px;
+    width: 90%;
+    height: 40px;
+    border: none;
+}
+
+.wrap {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    /*background-image: url("imgs/bg.png");*/
+    /*background: hotpink;*/
+}

@@ -1,0 +1,39 @@
+{
+  "status": 1,
+  "result": {
+    "list": [
+      {
+        "username": "admin",
+        "password": "1"
+      },
+      {
+        "username": "chenxinwei",
+        "password": "Cxw2020@cmdi"
+      },
+      {
+        "username": "zhousheng",
+        "password": "Zs2020@cmdi"
+      },
+      {
+        "username": "qiujun",
+        "password": "Qj2020@cmdi"
+      },
+      {
+        "username": "gaoyi",
+        "password": "Gy2020@cmdi"
+      },
+      {
+        "username": "zhouxingwei",
+        "password": "Zxw2020@cmdi"
+      },
+      {
+        "username": "wanglei",
+        "password": "Wl2020@cmdi"
+      },
+      {
+        "username": "xujing",
+        "password": "Xj2020@cmdi"
+      }
+    ]
+  }
+}
